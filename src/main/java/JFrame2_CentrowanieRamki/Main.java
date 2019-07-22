@@ -17,7 +17,7 @@ public class Main extends JFrame{
         //this.setLocation(szer/4, wys/4);
         int szerRamki = this.getSize().width;
         int wysRamki = this.getSize().height;
-        this.setLocation(szer=szerRamki/2, wys = wysRamki/2);
+        this.setLocation(szer = szerRamki/2, wys = wysRamki/2);
 
         this.setDefaultCloseOperation(3);
     }
