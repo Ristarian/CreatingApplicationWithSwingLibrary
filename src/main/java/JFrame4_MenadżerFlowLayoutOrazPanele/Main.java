@@ -1,4 +1,4 @@
-package JFrame4_PaneleOrazMenadżerFlowLayout;
+package JFrame4_MenadżerFlowLayoutOrazPanele;
 
 import javax.swing.*;
 import java.awt.*;
